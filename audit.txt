@@ -1,0 +1,4 @@
+# Enabling command line audit #
+
+Computer Configuration -> Windows Settings -> Security Settings -> Advanced Audit Policy Configuration -> 
+System Audit Policies -> Detailed Tracking -> Audit Process Creation
