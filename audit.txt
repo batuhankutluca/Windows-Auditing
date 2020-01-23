@@ -2,3 +2,7 @@
 
 Computer Configuration -> Windows Settings -> Security Settings -> Advanced Audit Policy Configuration -> 
 System Audit Policies -> Detailed Tracking -> Audit Process Creation
+
+# Enabling DNS Client Logging #
+
+Applications and Service Logs -> Microsoft -> Windows -> DNS Client Events -> Operational -> Enable
