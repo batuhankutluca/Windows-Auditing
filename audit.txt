@@ -6,3 +6,9 @@ System Audit Policies -> Detailed Tracking -> Audit Process Creation
 # Enabling DNS Client Logging #
 
 Applications and Service Logs -> Microsoft -> Windows -> DNS Client Events -> Operational -> Enable
+
+# Enabling auditing file & folder #
+
+Computer Configuration -> Windows Settings -> Security Settings -> Audit Policy -> Audit object access
+
+! Specify which folder you want to monitor after enabling that !
