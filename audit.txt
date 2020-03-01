@@ -1,4 +1,8 @@
-# Enabling command line audit #
+# Enabling Command Line Auditing #
+
+Computer Configuration -> Administrative Templates -> System -> Audit Process Creation -> Include command line in process creation events
+
+# Enabling Process Creation Auditing #
 
 Computer Configuration -> Windows Settings -> Security Settings -> Advanced Audit Policy Configuration -> 
 System Audit Policies -> Detailed Tracking -> Audit Process Creation
@@ -7,7 +11,7 @@ System Audit Policies -> Detailed Tracking -> Audit Process Creation
 
 Applications and Service Logs -> Microsoft -> Windows -> DNS Client Events -> Operational -> Enable
 
-# Enabling auditing file & folder #
+# Enabling Auditing File & Folder #
 
 Computer Configuration -> Windows Settings -> Security Settings -> Audit Policy -> Audit object access
 
