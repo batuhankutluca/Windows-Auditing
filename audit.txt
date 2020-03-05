@@ -16,4 +16,6 @@ Applications and Service Logs -> Microsoft -> Windows -> DNS Client Events -> Op
 Computer Configuration -> Windows Settings -> Security Settings -> Audit Policy -> Audit object access
 
 ! Specify which folder and which modifications you want to monitor after enabling that !
+
+Advanced Audit Policy – which GPO corresponds with which Event ID
 https://girl-germs.com/?p=363
