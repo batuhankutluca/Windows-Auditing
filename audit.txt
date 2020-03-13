@@ -17,5 +17,9 @@ Computer Configuration -> Windows Settings -> Security Settings -> Audit Policy 
 
 ! Specify which folder and which modifications you want to monitor after enabling that !
 
+# Event ID 7036 #
+
+To check if a critical service stopped but not started after short time 
+
 #Advanced Audit Policy – which GPO corresponds with which Event ID
 https://girl-germs.com/?p=363
