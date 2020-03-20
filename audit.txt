@@ -27,7 +27,11 @@ Can be checked for system reboot
 
 # Event ID 1074 #
 
-Can be checked for system reboot
+Can be checked for system reboot (process based)
+
+# Event ID 1076 #
+
+Can be checked for system reboot (user based)
 
 #Advanced Audit Policy – which GPO corresponds with which Event ID
 https://girl-germs.com/?p=363
