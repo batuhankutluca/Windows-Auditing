@@ -21,5 +21,13 @@ Computer Configuration -> Windows Settings -> Security Settings -> Audit Policy 
 
 To check if a critical service stopped but not started after short time 
 
+# Event ID 4608 #
+
+Can be checked for system reboot
+
+# Event ID 1074 #
+
+Can be checked for system reboot
+
 #Advanced Audit Policy – which GPO corresponds with which Event ID
 https://girl-germs.com/?p=363
